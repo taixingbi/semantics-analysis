@@ -1,5 +1,8 @@
 # sentiment analysis
-this task is for Bullish or Bearish sentiment in financial domain.
+Financial data is a challenging use case for Bullish or Bearish Sentiment Analysis because it has been shown that sentiments and opinions can affect market dynamics.     
+
+# [Learning Cross-Domain Word Embeddings](https://github.com/taixingbi/Learning-Cross-Domain-Word-Embeddings)      
+
 
 
 
