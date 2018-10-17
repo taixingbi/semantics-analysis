@@ -12,7 +12,7 @@ practice dataset is from [kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial
 finance datasets is from []()    
 
 # peference
-[1] [Fine-Grained Sentiment Analysis on Financial]Microblogs and News](http://www.aclweb.org/anthology/S17-2089)      
+[1] [Fine-Grained Sentiment Analysis on Financial Microblogs and News](http://www.aclweb.org/anthology/S17-2089)      
 [2] [Sentiment Analysis on Financial Data Using Neural Networks](http://www.aclweb.org/anthology/S17-2150)         
 [3] [Inferring Sentiment towards Brands from Financial News Headlines](http://www.aclweb.org/anthology/S17-2138)         
 [4] [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)     
