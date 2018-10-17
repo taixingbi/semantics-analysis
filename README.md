@@ -1,4 +1,7 @@
-# semantics analysis
+# sentiment analysis
+this task is for Bullish or Bearish sentiment in financial domain.
+
+
 
 
 
