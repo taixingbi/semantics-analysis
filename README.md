@@ -8,7 +8,8 @@ this task is for Bullish or Bearish sentiment in financial domain.
 
 
 # dataset 
-dataset is from kaggle
+practice dataset is from [kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)      
+finance datasets is from []()    
 
 # peference
 [1] [Sentiment Analysis on Financial Data Using Neural Networks](http://www.aclweb.org/anthology/S17-2150)         
