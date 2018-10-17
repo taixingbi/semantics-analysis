@@ -9,7 +9,7 @@ this task is for Bullish or Bearish sentiment in financial domain.
 
 # dataset 
 practice dataset is from [kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)      
-finance datasets is from [SemEval-2017 Task 5](http://alt.qcri.org/semeval2017/task5/index.php?id=data-and-tools)       
+finance datasets is StockTwits, Yahoo Finance, from [SemEval-2017 Task 5](http://alt.qcri.org/semeval2017/task5/index.php?id=data-and-tools)       
 
 # peference
 [1] [Fine-Grained Sentiment Analysis on Financial Microblogs and News](http://www.aclweb.org/anthology/S17-2089)      
