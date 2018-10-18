@@ -7,7 +7,7 @@ Financial data is a challenging use case for Bullish or Bearish Sentiment Analys
 #### * architecture   
 
 ##### CNN   
-* filter(kernel) 2,3,4 
+* filter(kernel) use 1,2,3,4 to capture n-grams.
 * 
 
 
