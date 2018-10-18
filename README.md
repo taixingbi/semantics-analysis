@@ -2,7 +2,13 @@
 Financial data is a challenging use case for Bullish or Bearish Sentiment Analysis because it has been shown that sentiments and opinions can affect market dynamics.     
 
 # pipeline  
-#### * [Learning Cross-Domain Word Embeddings](https://github.com/taixingbi/Learning-Cross-Domain-Word-Embeddings)         
+#### * [Learning Cross-Domain Word Embeddings](https://github.com/taixingbi/Learning-Cross-Domain-Word-Embeddings)   
+
+#### * architecture   
+
+##### CNN   
+* filter(kernel) 2,3,4 
+* 
 
 
 
