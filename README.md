@@ -6,9 +6,25 @@ Financial data is a challenging use case for Bullish or Bearish Sentiment Analys
 
 #### * architecture   
 
+  
 ##### CNN   
 * filter(kernel) use 1,2,3,4 to capture n-grams.
-* 
+* dense(200)
+
+##### word RNN
+* Bi-LSTM(100)
+
+#### merge
+* merge(300)
+
+#### sentense RNN
+* Bi-LSTM(100)
+
+#### activation function
+* tanh
+
+
+
 
 
 
